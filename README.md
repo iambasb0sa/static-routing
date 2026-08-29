@@ -64,22 +64,29 @@ Static routes are configured manually on the routers using the Cisco IOS command
 
 ```bash
 ip route <destination-network> <subnet-mask> <next-hop>
+```
 
-Connectivity Testing
+## Connectivity Testing
 
 After configuring the static routes, connectivity can be tested using:
 
+```bash
 ping <destination-ip>
+```
 
 The routing table can be checked using:
 
+```bash
 show ip route
+```
 
 Static routes are identified by:
 
+```text
 S
+```
 
-##🎯 Project Objectives
+## Project Objectives
 
 This project was created to practice:
 
@@ -93,16 +100,17 @@ Network connectivity testing
 Basic troubleshooting
 
 
-##🛠️ Tools Used
+## Tools Used
 Cisco Packet Tracer
 Cisco IOS
 IPv4
 Static Routing
 
 
-📁 Project File
+## Project File
 
 The complete Packet Tracer project is available in:
 
-StaticRouting.pkt
+```text
+Static Routing.pkt
 
