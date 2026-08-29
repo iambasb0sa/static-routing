@@ -79,7 +79,7 @@ Static routes are identified by:
 
 S
 
-🎯 Project Objectives
+##🎯 Project Objectives
 
 This project was created to practice:
 
@@ -93,7 +93,7 @@ Network connectivity testing
 Basic troubleshooting
 
 
-🛠️ Tools Used
+##🛠️ Tools Used
 Cisco Packet Tracer
 Cisco IOS
 IPv4
