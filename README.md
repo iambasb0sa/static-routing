@@ -78,6 +78,7 @@ show ip route
 Static routes are identified by:
 
 S
+
 🎯 Project Objectives
 
 This project was created to practice:
@@ -90,15 +91,18 @@ Next-hop configuration
 Routing table analysis
 Network connectivity testing
 Basic troubleshooting
+
+
 🛠️ Tools Used
 Cisco Packet Tracer
 Cisco IOS
 IPv4
 Static Routing
+
+
 📁 Project File
 
 The complete Packet Tracer project is available in:
 
-Static-Routing.pkt
+StaticRouting.pkt
 
-Open the .pkt file using Cisco Packet Tracer to view the complete topology and configurations.
