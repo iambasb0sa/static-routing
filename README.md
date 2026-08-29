@@ -90,21 +90,22 @@ S
 
 This project was created to practice:
 
-IPv4 addressing
-Network topology design
-Router configuration
-Static routing
-Next-hop configuration
-Routing table analysis
-Network connectivity testing
-Basic troubleshooting
+- IPv4 addressing
+- Network topology design
+- Router configuration
+- Static routing
+- Next-hop configuration
+- Routing table analysis
+- Network connectivity testing
+- Basic troubleshootingg
 
 
 ## Tools Used
-Cisco Packet Tracer
-Cisco IOS
-IPv4
-Static Routing
+
+- Cisco Packet Tracer
+- Cisco IOS
+- IPv4
+- Static Routing
 
 
 ## Project File
