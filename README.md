@@ -66,7 +66,7 @@ Static routes are configured manually on the routers using the Cisco IOS command
 ip route <destination-network> <subnet-mask> <next-hop>
 ```
 
-## Connectivity Testing
+## 🧪 Connectivity Testing
 
 After configuring the static routes, connectivity can be tested using:
 
@@ -86,7 +86,7 @@ Static routes are identified by:
 S
 ```
 
-## Project Objectives
+## 🎯 Project Objectives
 
 This project was created to practice:
 
@@ -100,7 +100,7 @@ This project was created to practice:
 - Basic troubleshootingg
 
 
-## Tools Used
+## 🛠️ Tools Used
 
 - Cisco Packet Tracer
 - Cisco IOS
@@ -108,7 +108,7 @@ This project was created to practice:
 - Static Routing
 
 
-## Project File
+## 📁 Project File
 
 The complete Packet Tracer project is available in:
 
