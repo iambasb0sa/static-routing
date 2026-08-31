@@ -1,6 +1,6 @@
 # Cisco Packet Tracer - Static Routing
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates the configuration of **Static Routing** using Cisco Packet Tracer.
 
@@ -8,7 +8,7 @@ The network consists of three routers connected through different networks, with
 
 The main objective is to configure static routes so that all devices in the different networks can communicate with each other.
 
-## 🌐 Network Topology
+## Network Topology
 
 The topology contains:
 
@@ -37,7 +37,7 @@ The topology contains:
 | 192.168.1.0 | Router2 LAN |
 | 4.0.0.0 | Shared network between Router0 and Router2 |
 
-## 🔢 IP Addressing
+## IP Addressing
 
 ### Router0
 
@@ -58,7 +58,7 @@ The topology contains:
 - `4.0.0.2`
 - `192.168.1.1`
 
-## ⚙️ Routing Configuration
+## Routing Configuration
 
 Static routes are configured manually on the routers using the Cisco IOS command:
 
@@ -66,7 +66,7 @@ Static routes are configured manually on the routers using the Cisco IOS command
 ip route <destination-network> <subnet-mask> <next-hop>
 ```
 
-## 🧪 Connectivity Testing
+## Connectivity Testing
 
 After configuring the static routes, connectivity can be tested using:
 
@@ -86,7 +86,7 @@ Static routes are identified by:
 S
 ```
 
-## 🎯 Project Objectives
+## Project Objectives
 
 This project was created to practice:
 
@@ -100,7 +100,7 @@ This project was created to practice:
 - Basic troubleshootingg
 
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Cisco Packet Tracer
 - Cisco IOS
@@ -108,10 +108,11 @@ This project was created to practice:
 - Static Routing
 
 
-## 📁 Project File
+## Project File
 
 The complete Packet Tracer project is available in:
 
 ```text
 Static Routing.pkt
-
+```
+Open the `.pkt` file using Cisco Packet Tracer to view the complete topology and configurations.
